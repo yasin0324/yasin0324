@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a beginner Front-End Developer who loves build
 
 ## 🌟 GitHub Stats
 
-[![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasin0324&show_icons=true&theme=radical)](https://github.com/yasin0324)
+[![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasin0324&show_icons=true&theme=synthwave)](https://github.com/yasin0324)
 
 ## 🔥 GitHub Contributions
 
@@ -30,16 +30,6 @@ Welcome to my GitHub profile! I'm a beginner Front-End Developer who loves build
 
 ---
 
-## 📧 Contact Me
-
-- **Email**: [Your email]
-- **LinkedIn**: [Your LinkedIn profile link]
-- **Twitter**: [Your Twitter profile link]
-
----
-
 Thanks for visiting my GitHub profile! 🌟 Feel free to reach out if you have any questions or want to collaborate! 🚀
 
 ---
-
-![Synthwave Background](https://raw.githubusercontent.com/Abs0rbant/synthwave-avatars/master/avatars/1.gif)
