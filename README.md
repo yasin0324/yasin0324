@@ -1,6 +1,6 @@
 # Hi, I'm yasin.
 
-Welcome to my GitHub profile! I'm a beginner Front-End Developer currently learning and practicing React, Vue, and TypeScript. I enjoy building web applications and exploring new technologies.
+Welcome to my GitHub profile! I'm a beginner Front-End Developer. I enjoy building web applications and exploring new technologies.
 
 ## 🚀 About Me
 
@@ -8,6 +8,10 @@ Welcome to my GitHub profile! I'm a beginner Front-End Developer currently learn
 - 🌱 I’m learning and experimenting with React, Vue, and TypeScript.
 - 👯 I’m looking for opportunities to collaborate and learn from other developers.
 - 🎮 In my free time, I enjoy playing games, watching anime, and listening to music.
+
+## 🛠 Skills
+
+- **Front-End Technologies**: HTML, CSS, JavaScript, Vue, React, Node.js ...
 
 Thanks for visiting my GitHub profile! Feel free to reach out if you have any questions or want to collaborate! 🚀
 
