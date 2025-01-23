@@ -10,6 +10,10 @@
 <code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
 
+## 🏠 Blog
+
+- **[https://yasin0324.github.io/](https://yasin0324.github.io/)** (🏚️building...)
+
 ---
 
 ## 🌟 GitHub Stats
