@@ -1,25 +1,21 @@
 # Hi, I'm Yasin 👾
 
-Welcome to my GitHub profile! I'm a beginner Front-End Developer who loves building web applications and exploring new technologies. 🚀
+> A beginner Front-End Developer from **China**. 🚀
 
-## 🚀 About Me
+## 🏗️ Learning
 
-- 🎓 I study at **Huazhong Agricultural University**.
-- 🌱 I’m currently learning and experimenting with **React**, **Vue**, and **TypeScript**.
-- 👯 I’m looking for opportunities to **collaborate** and learn from other developers.
-- 🎮 In my free time, I enjoy **playing games**, watching **anime**, and listening to **music**.
-
-## 🛠 Skills
-
-- **Front-End Technologies**: HTML, CSS, JavaScript, Vue, React, Node.js, and more...
-- **Other Skills**: Web Design, Version Control (Git), Problem Solving
+<code><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/></code>
+<code><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/vue-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
+<code><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></code>
 
 ---
 
 ## 🌟 GitHub Stats
 
-[![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasin0324&show_icons=true&theme=synthwave)](https://github.com/yasin0324)
-
+| [![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasin0324&show_icons=true&theme=synthwave)](https://github.com/yasin0324) | ![Yasin's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=yasin0324&theme=synthwave&layout=compact) |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------- |
 ## 🔥 GitHub Contributions
 
 <picture>
@@ -27,9 +23,3 @@ Welcome to my GitHub profile! I'm a beginner Front-End Developer who loves build
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yasin0324/yasin0324/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yasin0324/yasin0324/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-Thanks for visiting my GitHub profile! 🌟 Feel free to reach out if you have any questions or want to collaborate! 🚀
-
----
