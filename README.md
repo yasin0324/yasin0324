@@ -9,8 +9,9 @@
 <code><img src="https://img.shields.io/badge/vue-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 
-## 🏠 Blog
+## 🏠 Yasin's sites
 
+- **[https://yasinverse.top/](https://yasinverse.top/)** (🏚️building...)
 - **[https://yasin0324.github.io/](https://yasin0324.github.io/)** (🏚️building...)
 
 ---
