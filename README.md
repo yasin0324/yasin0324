@@ -1,6 +1,6 @@
 # Hi, I'm Yasin 👾
 
-> A beginner Front-End Developer from **China**. 🚀
+> A beginner Web Developer from **China**. 🚀
 
 ## 🏗️ Learning
 
